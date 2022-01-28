@@ -1,0 +1,5 @@
+﻿  lab3.c
+E:\source\repos\Lab3 - Second Attempt\lab3.c(44,16): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\source\repos\Lab3 - Second Attempt\lab3.c(68,8): warning C4013: '_getch' undefined; assuming extern returning int
+E:\source\repos\Lab3 - Second Attempt\lab3.c(31): warning C4715: 'CheckNumbers': not all control paths return a value
+  Lab3 - Second Attempt.vcxproj -> E:\source\repos\Lab3 - Second Attempt\Debug\Lab3 - Second Attempt.exe

@@ -1,0 +1,2 @@
+E:\source\repos\lab7\Debug\lab7.exe
+E:\source\repos\lab7\Debug\lab7.pdb

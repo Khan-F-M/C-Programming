@@ -1,0 +1,3 @@
+﻿  lab1.c
+E:\source\repos\lab1\lab1.c(19,6): warning C4101: 'convert': unreferenced local variable
+  lab1.vcxproj -> E:\source\repos\lab1\Debug\lab1.exe

@@ -1,0 +1,3 @@
+E:\source\repos\Lab6\Debug\Lab6.exe
+E:\source\repos\Lab6\Debug\Lab6.pdb
+C:\Users\User\source\repos\Lab6\Debug\Lab6.exe

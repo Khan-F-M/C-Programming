@@ -1,0 +1,4 @@
+﻿  lab6.c
+C:\Users\User\source\repos\Lab6\lab6.c(39,69): warning C4047: '=': 'int (*)[3][2]' differs in levels of indirection from 'int'
+C:\Users\User\source\repos\Lab6\lab6.c(40,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (*)[3][2]'
+  Lab6.vcxproj -> C:\Users\User\source\repos\Lab6\Debug\Lab6.exe

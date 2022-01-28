@@ -1,0 +1,3 @@
+﻿  lab6.c
+E:\source\repos\lab6\lab6\lab6.c(26,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  lab6.vcxproj -> E:\source\repos\lab6\lab6\Debug\lab6.exe

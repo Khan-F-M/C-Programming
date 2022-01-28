@@ -1,0 +1,2 @@
+C:\Users\Khan\source\repos\lab5\Debug\lab5.exe
+C:\Users\Khan\source\repos\lab5\Debug\lab5.pdb
