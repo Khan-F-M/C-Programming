@@ -1,1 +1,1 @@
-#Generating Fractal Patterns using iterative complex functions
+Generating Fractal Patterns using iterative complex functions
